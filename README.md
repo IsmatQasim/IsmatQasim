@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Ismat Qasim</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-- 🔭 I’m currently working on **Mythica , MyOwnPortfolio**
-
 - 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **ismat6812@gmail.com**
