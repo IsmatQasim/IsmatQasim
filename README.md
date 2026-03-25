@@ -1,10 +1,6 @@
-![GIthub Profile](https://github.com/user-attachments/assets/14bec7af-f866-4f8e-bd24-112196cdf040)
 
 <h1 align="center">Hi 👋, I'm Ismat Qasim</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
-
-- 🌱 I’m currently learning **MERN Stack**
-
+<h3 align="center">A passionate frontend developer!</h3>
 - 📫 How to reach me **ismat6812@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
