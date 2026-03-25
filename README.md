@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Ismat Qasim</h1>
 <h3 align="center">A passionate frontend developer!</h3>
-- 📫 How to reach me **ismat6812@gmail.com**
+- 📫 How to reach me <b>ismat6812@gmail.com</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
