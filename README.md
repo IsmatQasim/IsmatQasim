@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ismat Qasim</h1>
-<h3 align="center">Fresh BSSE Graduate | Frontend Developer</h3>
-
+<h1 align="center">Hi👋, I'm Ismat Qasim — I build for the web</h1>
 <p align="center">
    Portfolio: 
   <a href="https://ismat-portfolio.netlify.app/" target="_blank">
