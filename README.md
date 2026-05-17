@@ -25,10 +25,3 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind,bootstrap,angular,figma,graphql,nodejs,express,mongodb,mysql,firebase,git,github,postman,python" />
 </p>
-
-
-<h3 align="center">GitHub Stats:</h3>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ismatqasim" alt="ismatqasim" />
-</p>
